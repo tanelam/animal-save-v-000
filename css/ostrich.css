@@ -1,5 +1,5 @@
 html {
-  background: url(../images/croc.jpg);
+  background: url(../images/croc.jpg) no-repeat;
   width: 100%;
   max-width: 100%;;
 }
