@@ -22,9 +22,10 @@ html {
 
 @media only screen and (min-width: 642px) and (max-width: 1090px){
 
-  #monkey {
+  #dolphin {
     position: absolute;
     top: 0px;
     right: 0;
+    transform: rotate(0.5turn);
   }
 }
