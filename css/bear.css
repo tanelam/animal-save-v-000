@@ -11,6 +11,10 @@ html {
 /* Write your solution here */
 
 @media only screen and (max-width: 800px){
+  .wrapper{
+    width: 90%;
+  }
+  
   #bear{
     position: fixed;
     right: 100px;
