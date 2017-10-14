@@ -1,6 +1,9 @@
 html {
-  background: url(../images/croc.jpg) no-repeat center;
+  background: url(../images/croc.jpg) no-repeat;
+  width: 100%;
+  max-width: 100%;;
 }
+
 
 #ostrich {
   position: absolute;
