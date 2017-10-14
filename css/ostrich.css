@@ -1,10 +1,10 @@
 html {
-  background: url(../images/croc.jpg) no-repeat top left;
+  background: url(../images/croc.jpg) no-repeat auto;
 }
 
 #ostrich {
   position: absolute;
-  
+
   right: 0;
 }
 
