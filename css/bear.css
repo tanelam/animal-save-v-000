@@ -11,7 +11,7 @@ html {
 /* Write your solution here */
 
 @media only screen and (max-width: 800px){
-  .bear{
-    position: absolute;;
+  #bear{
+    position: absolute;
   }
 }
